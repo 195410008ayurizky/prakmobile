@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pinjaman Online</string>
+
+
+    <string name="input">Masukkan Pinjaman :</string>
+    <string name="bulan">Tenor (bulan) :</string>
+    <string name="jml_bauar">Jumlah Dibayar :</string>
+    <string name="jml_cair">Jumlah Cair : </string>
+    <string name="btn_hitung">Hitung</string>
+    <string name="Syarat">- Persyaratan Melakukan Pinjaman Online: \n
+    1. Memiliki KTP\n
+    2. Merupakan Warga Negara Indonesia\n
+    3. Memiliki Penghasilan yang jelas\n
+    4. Bersedia Memberikan Informasi Pribadi\n\n
+
+    - Perhitungan Biaya :\n
+    1. Biaya Layanan 5% Dari Pinjaman\n
+    2. Suku Bunga 3.75% per/bulan\n\n
+
+    Untuk Informasi lebih lanjut hubungi : Pinjol.com
+    </string>
+</resources>
